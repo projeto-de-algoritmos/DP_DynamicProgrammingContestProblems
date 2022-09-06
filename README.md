@@ -11,7 +11,7 @@
 
 ## Sobre 
 
-O objetivo deste projeto é resolver alguns problemas de programação utilizando algoritmos ambiciosos (Greed). Nós resolvemos 1 problema distinto.
+O objetivo deste projeto é resolver alguns problemas de programação utilizando algoritmos de programação dinâmica. Nós resolvemos 3 problemas distintos.
 
 ## Instalação 
 **Linguagem**: C++<br>
@@ -48,12 +48,27 @@ ou simplesmente compile e rode com um só comando
 ```
   make
 ```
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Love Song - [link](https://codeforces.com/problemset/problem/1539/B)
 
+**Dificuldade: 800**
 
+**Questão accepted**
 
+![Love Song](./Screenshots/Love%20Songs/ac.png)
 
+## QAQ - [link](https://codeforces.com/contest/894/problem/A)
+
+**Dificuldade: 800**
+
+**Questão accepted**
+
+![QAQ](./Screenshots/QAQ/ac.png)
+
+## Long Jumps - [link](https://codeforces.com/problemset/problem/1472/C)
+
+**Dificuldade: 1100**
+
+**Questão accepted**
+
+![Long Jumps](./Screenshots/Long%20Jumps/ac.png)
